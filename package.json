@@ -1,5 +1,5 @@
 {
-  "name": "inflation-calc",
+  "name": "inflationcalc",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "appcenter": "^4.3.0",
+    "appcenter-analytics": "^4.3.0",
+    "appcenter-crashes": "^4.3.0",
     "react": "17.0.2",
     "react-native": "0.66.4"
   },
